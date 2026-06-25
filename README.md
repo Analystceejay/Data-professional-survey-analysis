@@ -19,8 +19,7 @@ It answers six core business questions about compensation, career accessibility,
 
 ## 🖼️ Dashboard Preview
 
-> *(Add a screenshot of your Power BI dashboard here)*
-> `![Dashboard Screenshot](assets/ Screenshot 2026-06-25 133623.png)`
+> `![Dashboard Screenshot](assets/Screenshot 2026-06-25 133623.png)`
 
 ---
 
@@ -102,4 +101,4 @@ The dashboard wasn't just built to display data — it was designed to drive rea
 If you found this project useful or have feedback, feel free to:
 - ⭐ Star the repository
 - 🐛 Open an issue
-- 💬 Connect with me on [LinkedIn](https://linkedin.com/in/your-profile)
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/hope-jonathan-bb10a719a))
