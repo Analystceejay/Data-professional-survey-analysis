@@ -19,7 +19,7 @@ It answers six core business questions about compensation, career accessibility,
 
 ## 🖼️ Dashboard Preview
 
-> `![Dashboard Screenshot](assets/Screenshot 2026-06-25 133623.png)`
+> `![Dashboard Screenshot](assets/dashboard_Screenshot 2026-06-25 133623.png)`
 
 ---
 
